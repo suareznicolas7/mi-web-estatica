@@ -12,5 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
             extraInfo.style.display = "none";
             toggleButton.textContent = "Mostrar más información";
         }
+		
     });
 });
